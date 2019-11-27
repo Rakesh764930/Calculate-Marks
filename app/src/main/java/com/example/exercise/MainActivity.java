@@ -21,7 +21,7 @@ public Integer sum=0;
     EditText txtM3;
     EditText txtM4;
     EditText txtM5;
-    TextView result;
+    TextView  result;
 TextView txtRes;
 
 
